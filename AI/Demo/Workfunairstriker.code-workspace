@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\Test1\\Lib\\site-packages\\retro\\examples\\__pycache__"
+		},
+		{
+			"path": "..\\Test1"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings":{
+	"python.pythonPath":"D:\\AI\\Test1\\Scripts\\python"
+	}
+}
